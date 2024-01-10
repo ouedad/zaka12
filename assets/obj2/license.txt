@@ -1,0 +1,8 @@
+Model Information:
+* title:	sawyer yards street art (photogrammetry)
+* source:	https://sketchfab.com/3d-models/sawyer-yards-street-art-photogrammetry-5f878041520945e78649a87bd13a3fcc
+* author:	Austin Beaulier (https://sketchfab.com/Austin.Beaulier)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

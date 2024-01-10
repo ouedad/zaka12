@@ -1,0 +1,8 @@
+Model Information:
+* title:	Tray of Cookies (photogammetry)
+* source:	https://sketchfab.com/3d-models/tray-of-cookies-photogammetry-64698bb0d42e4f358a60ceb86b43c8ad
+* author:	Austin Beaulier (https://sketchfab.com/Austin.Beaulier)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
